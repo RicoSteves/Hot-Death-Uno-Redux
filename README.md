@@ -12,4 +12,4 @@ Hot Death Uno Redux is not affiliated with Uno or Mattel.
 Created by Nathan Cook,
 Rules and Constitution developed by Nathan Cook and Ethan Phillips
 
-# See "Hot Death Uno Redux Constitution.pdf" for rules
+# See *"Hot Death Uno Redux Constitution.pdf"* for rules
