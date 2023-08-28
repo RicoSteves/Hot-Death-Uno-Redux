@@ -9,6 +9,7 @@ This repository hosts the PDF of the latest Constitution in PDF format. The PDF 
 
 Hot Death Uno Redux is not affiliated with Uno or Mattel.
 
+
 Project created by Nathan Cook
 
 Rules and Constitution developed by Nathan Cook and Ethan Phillips
