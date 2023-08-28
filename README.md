@@ -9,7 +9,7 @@ This repository hosts the PDF of the latest Constitution in PDF format. The PDF 
 
 Hot Death Uno Redux is not affiliated with Uno or Mattel.
 
-Created by Nathan Cook
+Created by Nathan Cook,
 Rules and Constitution developed by Nathan Cook and Ethan Phillips
 
 # See "Hot Death Uno Redux Constitution.pdf" for rules
