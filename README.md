@@ -14,4 +14,4 @@ Project created by Nathan Cook
 
 Rules and Constitution developed by Nathan Cook and Ethan Phillips
 
-# See *"[Hot Death Uno Redux Constitution.pdf](https://github.com/RicoSteves/Hot-Death-Uno-Redux/blob/main/Hot%20Death%20Uno%20Redux%20Constitution.pdf)"* for rules
+# See *[Hot Death Uno Redux Constitution.pdf](https://github.com/RicoSteves/Hot-Death-Uno-Redux/blob/main/Hot%20Death%20Uno%20Redux%20Constitution.pdf)* for rules
