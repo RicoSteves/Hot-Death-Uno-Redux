@@ -1,5 +1,5 @@
 ## Hot-Death-Uno-Redux
-This is an active revival of Hot Death Uno that includes **21 new cards** and counting, providing a thrilling Uno experience unlike any before. The Hot Death Uno Redux Constitution is an elaborate document that outlines all of the features of this new way to play the game.
+This is an active revival of Hot Death Uno that includes **42 new cards** and counting, providing a thrilling Uno experience unlike any before. The Hot Death Uno Redux Constitution is an elaborate document that outlines all of the features of this new way to play the game.
 
 For those of you unfamiliar with the original Hot Death Uno, it is a more "adult" version of Uno developed by "someone with a sick sense of humour and way too much time on his hands" (Dameon Welch, https://phoneboy.com/hdu), a sentiment very fitting of myself.
 
